@@ -1,0 +1,308 @@
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/appsettings.json
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita.exe
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita.deps.json
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita.runtimeconfig.json
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita.pdb
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.csproj.AssemblyReference.cache
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.AssemblyInfoInputs.cache
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.AssemblyInfo.cs
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.csproj.CoreCompileInputs.cache
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets/msbuild.WebAPIReceita.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets/msbuild.build.WebAPIReceita.props
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebAPIReceita.props
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebAPIReceita.props
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/scopedcss/bundle/WebAPIReceita.styles.css
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.csproj.CopyComplete
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/refint/WebAPIReceita.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.pdb
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.genruntimeconfig.cache
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/ref/WebAPIReceita.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Azure.Core.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Azure.Identity.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Humanizer.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Memory.Data.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Runtime.Caching.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Henrick Melo/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/appsettings.json
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita.exe
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita.deps.json
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita.runtimeconfig.json
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita.pdb
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Azure.Core.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Azure.Identity.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Humanizer.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Memory.Data.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Runtime.Caching.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.csproj.AssemblyReference.cache
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.AssemblyInfoInputs.cache
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.AssemblyInfo.cs
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.csproj.CoreCompileInputs.cache
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets/msbuild.WebAPIReceita.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets/msbuild.build.WebAPIReceita.props
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebAPIReceita.props
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebAPIReceita.props
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/scopedcss/bundle/WebAPIReceita.styles.css
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.csproj.CopyComplete
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/refint/WebAPIReceita.dll
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.pdb
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.genruntimeconfig.cache
+C:/Users/Developer-00/Documents/APIReceita/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/ref/WebAPIReceita.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.csproj.AssemblyReference.cache
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.AssemblyInfoInputs.cache
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.AssemblyInfo.cs
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.csproj.CoreCompileInputs.cache
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.MvcApplicationPartsAssemblyInfo.cs
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.MvcApplicationPartsAssemblyInfo.cache
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/refint/WebAPIReceita.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.pdb
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/appsettings.Development.json
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/appsettings.json
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita.deps.json
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita.runtimeconfig.json
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/WebAPIReceita.pdb
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Azure.Core.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Azure.Identity.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Humanizer.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.CodeDom.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets/msbuild.WebAPIReceita.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets/msbuild.build.WebAPIReceita.props
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WebAPIReceita.props
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WebAPIReceita.props
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/scopedcss/bundle/WebAPIReceita.styles.css
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.csproj.CopyComplete
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/WebAPIReceita.genruntimeconfig.cache
+/Users/ricardosnatos/Downloads/WebAPIReceita/WebAPIReceita/obj/Debug/net7.0/ref/WebAPIReceita.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\appsettings.json
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\WebAPIReceita.exe
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\WebAPIReceita.deps.json
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\WebAPIReceita.runtimeconfig.json
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\WebAPIReceita.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\WebAPIReceita.pdb
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\WebAPIReceita.csproj.AssemblyReference.cache
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\WebAPIReceita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\WebAPIReceita.AssemblyInfoInputs.cache
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\WebAPIReceita.AssemblyInfo.cs
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\WebAPIReceita.csproj.CoreCompileInputs.cache
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\WebAPIReceita.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\WebAPIReceita.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\staticwebassets\msbuild.WebAPIReceita.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\staticwebassets\msbuild.build.WebAPIReceita.props
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebAPIReceita.props
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebAPIReceita.props
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\scopedcss\bundle\WebAPIReceita.styles.css
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\WebAPIReceita.csproj.CopyComplete
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\WebAPIReceita.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\refint\WebAPIReceita.dll
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\WebAPIReceita.pdb
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\WebAPIReceita.genruntimeconfig.cache
+C:\Users\Developer-00\Downloads\WebAPIReceita 2\WebAPIReceita\WebAPIReceita\obj\Debug\net7.0\ref\WebAPIReceita.dll
